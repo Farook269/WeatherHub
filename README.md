@@ -39,4 +39,4 @@ Thank you for considering Weather Hub! We hope this web application provides val
 
 **Stay Informed, Stay Weather-wise with Weather Hub!**
 
-For any inquiries or assistance, please feel free to reach out to us at (mailto:klsteja1612@gmail.com).
+For any inquiries or assistance, please feel free to reach out to us at (mailto:farookbashamulla269@gmail.com).
