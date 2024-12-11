@@ -12,18 +12,20 @@ Welcome to Weather Hub, an open-source web application designed to help users st
 
 
 1. **Accurate Weather Information**: Powered by the Forecast Weather API from Rapid API, Weather Hub provides users with reliable and up-to-date weather data, ensuring 98% accuracy.
-2. ![Screenshot 2024-12-11 181138](https://github.com/user-attachments/assets/1b906f98-62c4-4658-b2af-9e36006815f0)
+ ![Screenshot 2024-12-11 181138](https://github.com/user-attachments/assets/1b906f98-62c4-4658-b2af-9e36006815f0)
 
 
-3. **User-Friendly Interface**: Weather Hub boasts an intuitive and user-friendly interface with a good-looking CSS design that enhances the overall user experience.
-![Screenshot 2024-12-11 175239](https://github.com/user-attachments/assets/a0866968-8218-4645-96cb-0bde6f256dee)
+2. **User-Friendly Interface**: Weather Hub boasts an intuitive and user-friendly interface with a good-looking CSS design that enhances the overall user experience.
+   ![Screenshot 2024-12-11 175239](https://github.com/user-attachments/assets/a0866968-8218-4645-96cb-0bde6f256dee)
 
-4. **Interactive Slider**: The web application features an interactive slider built with JavaScript, allowing users to easily navigate through weather information and forecast details.
-5. 
+3. **Interactive Slider**: The web application features an interactive slider built with JavaScript, allowing users to easily navigate through weather information and forecast details.
+   ![Screenshot 2024-12-11 181157](https://github.com/user-attachments/assets/839798fc-37a1-4f04-9118-73b93fb9308b)
 
 
 
-6. **Multiple Pages**: Weather Hub offers a variety of informative pages, including:
+
+
+4. **Multiple Pages**: Weather Hub offers a variety of informative pages, including:
     - **Homepage**: A welcoming landing page that provides an overview of the application's capabilities.
     - **Weather Info Page**: Where users can check the current weather, forecasts, and other weather-related information for their desired location.
     ![Screenshot 2024-12-11 175258](https://github.com/user-attachments/assets/47c95e19-f86f-41f0-972a-83b947408495)
